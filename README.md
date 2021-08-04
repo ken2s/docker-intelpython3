@@ -3,5 +3,5 @@
 ### Docker pull command
 
 ```
- docker pull ken2s/intelpython3
+ docker pull ken2s/intelpython3_core:20210804
 ```
